@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Ausbildung
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  #
+degrees:
+- name: Bachelor of Science in Wirtschaftsinformatik
+  icon: fa-microscope
+  timeframe: 2007-2010
+  institution:
+    name: TH Wildau [FH]
+    url: "https://www.th-wildau.de/"
+  publications: #(optional)
+  - title: Durchführung einer Schematransformation mit PL/SQL zur Standardisierung des Prozesses

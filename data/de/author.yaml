@@ -1,0 +1,17 @@
+# some information about you
+name: "Florian Zeidler"
+nickname: "Florian"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hallo, Ich bin"
+image: "images/FlorianZeidler.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "florian@florian-zeidler.de"
+  phone: "+491787201478"
+  github: florian-zeidler
+  linkedin: florian-zeidler-a7b22a35
+
+# some summary about what you do
+summary:
+  - Ich bin Softwareentwickler
+  - Ich arbeite von Test nach REST mit allem was dazugehört

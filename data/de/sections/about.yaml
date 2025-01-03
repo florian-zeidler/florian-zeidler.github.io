@@ -1,0 +1,66 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Technical Expert
+# your company information
+company:
+  name: Senacor 
+  url: "https://www.senacor.de"
+
+
+# a summary about you
+summary: 'Ich bin leidenschaftlicher Backendentwickler mit dem Schwerpunkt Java/JVM mit Ausflügen in die DevOps Welt und einem Blick für softwaretechnische Verbesserungen und Modernisierung'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "florian@florian-zeidler.de"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/florian-zeidler"
+
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/florian-zeidler-a7b22a35"
+
+badges:
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 70 
+  color: pink
+
+- type: soft-skill-indicator
+  name: Relationale Datenbanken
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Java
+  percentage: 100 
+  color: orange
+
+- type: soft-skill-indicator
+  name: Software-architektur
+  percentage: 85 
+  color: green
+
+- type: soft-skill-indicator
+  name: Software-modernisierung
+  percentage: 95 
+  color: blue
+
+- type: soft-skill-indicator
+  name: Mentoring
+  percentage: 70 
+  color: pink

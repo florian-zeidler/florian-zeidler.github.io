@@ -1,0 +1,16 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio und persönlicher Blog von Florian Zeidler.
+
+customMenus:
+- name: Beiträge
+  url: /posts
+  hideFromNavbar: false
+  showOnFooter: true
+- name: Impressum
+  url: /posts/impressum/
+  hideFromNavbar: true
+  showOnFooter: true
+
